@@ -1,0 +1,11 @@
+{
+  "name": "wasm-vips-cdn",
+  "version": "0.0.18",
+  "description": "Import wasm-vips from CDN",
+  "author": "web5173",
+  "license": "ISC",
+  "keywords": [
+    "wasm-vips",
+    "wasm_vips_cdn"
+  ]
+}
